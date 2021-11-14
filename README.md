@@ -5,9 +5,9 @@ An application built with React, Bootstrap, JavaScript, and CSS...
 This application is deployed on: https://react-chat-app-chris49.netlify.app/
 
 ## Project Screen Shots
-<img src="https://github.com/chrisnumber49/React-Contact-App/blob/master/screen%20shot/demo2.PNG" width="600" > <img src="https://github.com/chrisnumber49/React-Contact-App/blob/master/screen%20shot/demo4.PNG" width="600" >
+<img src="https://github.com/chrisnumber49/React-Contact-App/blob/master/screen%20shot/demo2.PNG" width="600" >
 
-<img src="https://github.com/chrisnumber49/React-Contact-App/blob/master/screen%20shot/demo1.PNG" width="600" > <img src="https://github.com/chrisnumber49/React-Contact-App/blob/master/screen%20shot/demo5.PNG" width="600" >
+<img src="https://github.com/chrisnumber49/React-Contact-App/blob/master/screen%20shot/demo1.PNG" width="600" >
 
 <img src="https://github.com/chrisnumber49/React-Contact-App/blob/master/screen%20shot/demo3.PNG" width="600" >
 
