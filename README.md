@@ -1,4 +1,4 @@
-# React Contact App
+# React Chat App
 
 An application built with React, Bootstrap, JavaScript, and CSS...
 
