@@ -23,6 +23,6 @@ To Visit App: `localhost:3000/`
 
 ## Reflection 
 
-This was my first side project of learning React. Originally I wanted to build an application that can add, update, delete and check the detail of contact information. I started this project by using the command `create-react-app` to create the boilerplate, then several additional library `Bootstrap`, `uuid` and `react-router-dom` were installed during the development in this project.  
+I built an application that can... I started this project by using the command `create-react-app` to create the boilerplate, then several additional library `Bootstrap`, `axios` and `react-chat-engine` were installed during the development in this project.  
 
-The technologies implemented in this project including React, uuid, react-router-dom, Bootstrap and a significant amount of VanillaJS, JSX, and CSS. Through this side project, I learned about the basic concept of functional component, React hooks and lastly how to switch the component rendering and pass the props between component Via React-Router.
+The technologies implemented in this project including React, React Chat Engine, axios, Bootstrap and a significant amount of VanillaJS, JSX, and CSS. Through this side project, I learned about...
