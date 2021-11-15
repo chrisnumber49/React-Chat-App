@@ -1,6 +1,6 @@
 # React Chat App
 
-An chat services application built with React, Bootstrap, JavaScript, CSS and a free serverless chat API, Chat Engine.
+An chat services application built with React, Bootstrap, JavaScript, CSS and a free serverless chat API Chat Engine.
 
 This application is deployed on: https://react-chat-app-chris49.netlify.app/
 
@@ -25,6 +25,6 @@ To Visit App: `localhost:3000/`
 
 ## Reflection 
 
-I built an application that can... I started this project by using the command `create-react-app` to create the boilerplate, then several additional library `Bootstrap`, `axios` and `react-chat-engine` were installed during the development in this project.  
+In this side project, I built an application that have the basic functions of a general chat services with the Chat Engine API. I started this project by using the command `create-react-app` to create the boilerplate, then several additional library `Bootstrap`, `axios` and `react-chat-engine` were installed during the development in this project.  
 
-The technologies implemented in this project including React, React Chat Engine, axios, Bootstrap and a significant amount of VanillaJS, JSX, and CSS. Through this side project, I learned about...
+With the...
