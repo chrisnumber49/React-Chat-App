@@ -3,6 +3,7 @@
 An chat services application built with React, Bootstrap, JavaScript, CSS and a free serverless chat API, Chat Engine.
 
 This application is deployed on: https://react-chat-app-chris49.netlify.app/
+
 Chat Engine API: https://chatengine.io/
 
 ## Project Screen Shots
