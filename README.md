@@ -7,11 +7,11 @@ This application is deployed on: https://react-chat-app-chris49.netlify.app/
 Chat Engine API: https://chatengine.io/
 
 ## Project Screen Shots
-<img src="https://github.com/chrisnumber49/React-Chat-App/blob/master/screen%20shot/demo1.PNG" width="600" >
+<img src="https://github.com/chrisnumber49/React-Chat-App/blob/master/screen%20shot/demo1.PNG" width="700" >
 
-<img src="https://github.com/chrisnumber49/React-Chat-App/blob/master/screen%20shot/demo2.PNG" width="600" >
+<img src="https://github.com/chrisnumber49/React-Chat-App/blob/master/screen%20shot/demo2.PNG" width="700" >
 
-<img src="https://github.com/chrisnumber49/React-Chat-App/blob/master/screen%20shot/demo3.PNG" width="600" >
+<img src="https://github.com/chrisnumber49/React-Chat-App/blob/master/screen%20shot/demo3.PNG" width="700" >
 
 ## Installation and Setup Instructions
 
