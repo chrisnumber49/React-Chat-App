@@ -1,6 +1,6 @@
 # React Chat App
 
-An chat services application built with React, JavaScript, CSS and a free serverless chat API Chat Engine.
+A chat services application built with React, JavaScript, CSS and a free serverless chat API Chat Engine.
 
 This application is deployed on: https://react-chat-app-chris49.netlify.app/
 
